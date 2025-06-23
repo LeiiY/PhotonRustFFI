@@ -1,0 +1,347 @@
+[
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/alog.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/common/alog.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/common/alog.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/checksum/crc.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/common/checksum/crc.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/common/checksum/crc.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/estring.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/common/estring.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/common/estring.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/event-loop.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/common/event-loop.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/common/event-loop.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/executor/executor.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/common/executor/executor.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/common/executor/executor.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/expirecontainer.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/common/expirecontainer.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/common/expirecontainer.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/identity-pool.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/common/identity-pool.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/common/identity-pool.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/iovector.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/common/iovector.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/common/iovector.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/memory-stream/memory-stream.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/common/memory-stream/memory-stream.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/common/memory-stream/memory-stream.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/perf_counter.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/common/perf_counter.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/common/perf_counter.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/ring.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/common/ring.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/common/ring.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/stream.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/common/stream.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/common/stream.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/utility.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/common/utility.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/common/utility.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/common/uuid4.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/common/uuid4.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/common/uuid4.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/aligned-file.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/fs/aligned-file.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/fs/aligned-file.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/async_filesystem.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/fs/async_filesystem.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/fs/async_filesystem.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/exportfs.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/fs/exportfs.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/fs/exportfs.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/filecopy.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/fs/filecopy.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/fs/filecopy.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/httpfs/httpfs.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/fs/httpfs/httpfs.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/fs/httpfs/httpfs.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/httpfs/httpfs_v2.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/fs/httpfs/httpfs_v2.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/fs/httpfs/httpfs_v2.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/localfs.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/fs/localfs.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/fs/localfs.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/path.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/fs/path.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/fs/path.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/subfs.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/fs/subfs.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/fs/subfs.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/throttled-file.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/fs/throttled-file.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/fs/throttled-file.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/virtual-file.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/fs/virtual-file.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/fs/virtual-file.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/fs/xfile.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/fs/xfile.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/fs/xfile.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/io/reset_handle.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/io/reset_handle.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/io/reset_handle.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/io/signal.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/io/signal.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/io/signal.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/basic_socket.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/net/basic_socket.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/net/basic_socket.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/curl.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/net/curl.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/net/curl.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/datagram_socket.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/net/datagram_socket.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/net/datagram_socket.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/http/body.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/net/http/body.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/net/http/body.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/http/client.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/net/http/client.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/net/http/client.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/http/cookie_jar.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/net/http/cookie_jar.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/net/http/cookie_jar.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/http/headers.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/net/http/headers.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/net/http/headers.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/http/message.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/net/http/message.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/net/http/message.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/http/server.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/net/http/server.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/net/http/server.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/http/status.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/net/http/status.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/net/http/status.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/http/url.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/net/http/url.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/net/http/url.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/iostream.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/net/iostream.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/net/iostream.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/kernel_socket.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/net/kernel_socket.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/net/kernel_socket.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/pooled_socket.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/net/pooled_socket.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/net/pooled_socket.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/security-context/tls-stream.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/net/security-context/tls-stream.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/net/security-context/tls-stream.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/net/utils.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/net/utils.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/net/utils.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/photon.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/photon.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/photon.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/rpc/out-of-order-execution.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/rpc/out-of-order-execution.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/rpc/out-of-order-execution.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/rpc/rpc.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/rpc/rpc.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/rpc/rpc.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/thread/arch.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/thread/arch.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/thread/arch.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/thread/st.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/thread/st.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/thread/st.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/thread/stack-allocator.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/thread/stack-allocator.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/thread/stack-allocator.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/thread/std-compat.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/thread/std-compat.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/thread/std-compat.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/thread/thread-key.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/thread/thread-key.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/thread/thread-key.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/thread/thread-pool.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/thread/thread-pool.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/thread/thread-pool.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/thread/thread.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/thread/thread.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/thread/thread.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/thread/workerpool.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/thread/workerpool.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/thread/workerpool.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/io/aio-wrapper.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/io/aio-wrapper.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/io/aio-wrapper.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/io/epoll.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/io/epoll.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/io/epoll.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/io/epoll-ng.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/io/epoll-ng.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/io/epoll-ng.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/cache/cache.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/cache/cache.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/cache/cache.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/cache/cached_fs.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/cache/cached_fs.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/cache/cached_fs.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/cache/full_file_cache/cache_pool.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/cache/full_file_cache/cache_pool.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/cache/full_file_cache/cache_pool.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/cache/full_file_cache/cache_store.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/cache/full_file_cache/cache_store.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/cache/full_file_cache/cache_store.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/cache/full_file_cache/quota_pool.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/cache/full_file_cache/quota_pool.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/cache/full_file_cache/quota_pool.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/cache/full_file_cache/quota_store.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/cache/full_file_cache/quota_store.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/cache/full_file_cache/quota_store.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/cache/persistent_cache/persistent_cache.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/cache/persistent_cache/persistent_cache.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/cache/persistent_cache/persistent_cache.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/cache/store.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/cache/store.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/cache/store.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build",
+  "command": "/usr/bin/c++ -DENABLE_CURL -DENABLE_FSTACK_DPDK -DPHOTON_GLOBAL_INIT_OPENSSL -I/home/ubuntu/leiiy/PhotonLibOS/include  -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/photon_obj.dir/io/fstack-dpdk.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/io/fstack-dpdk.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/io/fstack-dpdk.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build/third_party",
+  "command": "/usr/bin/c++    -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/easy_weak.dir/easy_weak/easy_weak.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/third_party/easy_weak/easy_weak.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/third_party/easy_weak/easy_weak.cpp"
+},
+{
+  "directory": "/home/ubuntu/leiiy/PhothonMini/build/_deps/photon-build/third_party",
+  "command": "/usr/bin/c++    -Wall -Wno-error=pragmas -Werror -faligned-new -Wno-packed-bitfield-compat -mcrc32 -O2 -DNDEBUG -fPIC -std=c++14 -o CMakeFiles/fstack_weak.dir/fstack_weak/fstack_weak.cpp.o -c /home/ubuntu/leiiy/PhotonLibOS/third_party/fstack_weak/fstack_weak.cpp",
+  "file": "/home/ubuntu/leiiy/PhotonLibOS/third_party/fstack_weak/fstack_weak.cpp"
+}
+]

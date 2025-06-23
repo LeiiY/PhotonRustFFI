@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnet-perf.a CMakeFiles/net-perf.dir/net-perf.cpp.o
+/usr/bin/ranlib libnet-perf.a

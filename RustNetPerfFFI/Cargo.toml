@@ -1,0 +1,15 @@
+[package]
+name = "RustNetPerfFFI"
+version = "0.1.0"
+edition = "2021"
+description = "FFI bindings for net-perf C++ library"
+build = "build.rs"
+
+[lib]
+crate-type = ["lib"]
+
+[dependencies]
+pkg-config = "0.3"
+
+[build-dependencies]
+pkg-config = "0.3"
